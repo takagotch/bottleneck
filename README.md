@@ -2,8 +2,11 @@
 ---
 https://github.com/SGrondin/bottleneck
 
-```
+```sh
 npm install --save bottleneck
+
+npm install --save redis
+npm install --save ioredis
 ```
 
 ```js
